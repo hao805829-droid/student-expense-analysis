@@ -1,0 +1,8 @@
+date,category,amount,payment_method
+2026-04-01,food,3.50,cash
+2026-04-02,transport,1.50,card
+2026-04-03,groceries,12.80,card
+2026-04-04,coffee,1.20,cash
+2026-04-05,food,5.00,card
+2026-04-06,study,8.90,card
+2026-04-07,groceries,16.30,card
